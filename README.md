@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Wajih Cherni. I am currently an engineering student specializing in Advanced Technologies, originally from Jendouba.</p>
+<p align="left">My name is Wajih Cherni. I am currently an engineering student specializing in Advanced Technologies</p>
 
 ###
 
