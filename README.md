@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Wajih Cherni. I am a newly graduated engineer (ENSTAB, Advanced Technologies), specializing in full-stack web development and AI.</p>
-###
+
 
 <h2 align="left">About me</h2>
 
