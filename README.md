@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">My name is Wajih Cherni. I am currently an engineering student specializing in Advanced Technologies</p>
-
+<p align="left">My name is Wajih Cherni. I am a newly graduated engineer (ENSTAB, Advanced Technologies), specializing in full-stack web development and AI.</p>
 ###
 
 <h2 align="left">About me</h2>
@@ -13,7 +12,7 @@
 <p align="left">
 ✨ Creating bugs since 2023 <br>
 📚 I'm currently focused on programming, software development, desktop applications, web development, and industrial systems <br>
-🎯 Goals: Becoming a skilled full-stack engineer and building impactful software solutions
+🎯 Goals: Becoming a skilled full-stack engineer and building impactful AI-powered software
 </p>
 
 ###
